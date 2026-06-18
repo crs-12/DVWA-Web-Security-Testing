@@ -1,4 +1,4 @@
-**Web Application Security Testing using DVWA and Burp Suite**
+#Web Application Security Testing using DVWA and Burp Suite
 
 Overview:
 This project focuses on identifying and analyzing common web application vulnerabilities using Damn Vulnerable Web Application (DVWA) and Burp Suite.
